@@ -1,4 +1,9 @@
 {
+  "aviation": 1,
+  "drones": 1,
+  "uav": 1,
+  "technology": 1,
+  "regulations": 1,
   "next-js": 6,
   "tailwind": 3,
   "guide": 5,
