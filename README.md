@@ -1,9 +1,9 @@
-
 ## Installation
 
 ```bash
 yarn
 ```
+
 ## Development
 
 First, run the development server:

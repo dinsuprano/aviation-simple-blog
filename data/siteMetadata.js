@@ -3,7 +3,8 @@ const siteMetadata = {
   title: 'Aviation Blog',
   author: 'Aircraft Enthusiast',
   headerTitle: 'Aviation Blog',
-  description: 'Your source for aviation news, insights, and inspiration. From aircraft technology and pilot profiles to travel guides and aviation history, we cover the spectrum of flight.',
+  description:
+    'Your source for aviation news, insights, and inspiration. From aircraft technology and pilot profiles to travel guides and aviation history, we cover the spectrum of flight.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://aviation-simple-blog.vercel.app/',
